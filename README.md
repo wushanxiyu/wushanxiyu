@@ -6,6 +6,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)](#环境要求)
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python&logoColor=white)](#环境要求)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
@@ -192,6 +193,12 @@ python foxmail_sender_filter.py \
 ## 免责声明
 
 本仓库脚本主要用于个人学习与日常效率提升，其中涉及注册表修改的功能请自行评估风险并做好备份。因使用本仓库脚本造成的任何系统问题，由使用者自行承担。
+
+---
+
+## 许可证
+
+本项目基于 [MIT License](LICENSE) 开源，你可以自由使用、修改和分发。
 
 ---
 
