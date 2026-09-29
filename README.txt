@@ -3,3 +3,4 @@
 	wallpaper_changer给出图床url地址后，拉取图片自动设置为壁纸
 	novel_name小说角色名字生成器
 	foxmail_sender邮箱筛选根据指定发件人和收件人的条件进行筛选一键导出
+        在有杀毒软件的情况下可以关闭windows安全中心
